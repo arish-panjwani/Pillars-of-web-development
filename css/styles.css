@@ -15,7 +15,10 @@ h1 {
 	border: 3px solid black;
 }
 
-p {
+p{
+}
+
+.p1 {
 	border: 3px solid white;
 	padding: 10px;
 	align-self: center;
@@ -25,9 +28,42 @@ p {
 	height: auto;
 	margin-right: auto;
 	margin-left: auto;
+	margin-top: 10px;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #ffcc66;
+	
+	
 }
+
+#sp1{
+	text-align: right;
+	vertical-align: text-top;
+	background-position: top right;
+	background-color: #ff5c33;
+	color: white;
+	margin left: auto;
+	padding: 10px;
+}
+
+#sp2{
+	text-align: right;
+	vertical-align: text-top;
+	background-position: top right;
+	background-color: #3399ff;
+	color: white;
+	padding: 10px;
+}
+
+#sp3{
+	align-self: center;
+	text-align: right;
+	vertical-align: text-top;
+	background-position: top right;
+	background-color: #ff9900;
+	color: white;
+	padding: 10px;
+}
+
 
 /*Simple Responsive Framework*/
 
